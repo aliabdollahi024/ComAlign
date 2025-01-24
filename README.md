@@ -6,7 +6,7 @@ Our experiments reveal that VLMs experience a significant drop in performance wh
 
 Below is an overview of the creation process of the GAB dataset and the empirical tests conducted to assess the gender-activity binding bias:
 
-![Main Figure](./image.png)
+![Main Figure](./mainfigure.png)
 
 In this repository, we provide the code and dataset (GABDataset) used to examine gender bias in Vision-Language Models (VLMs) through various experiments described in the main paper. The repository is organized into three phases: **phaze1**, **phaze2**, and **phaze3**, with corresponding directories for each experiment.
 

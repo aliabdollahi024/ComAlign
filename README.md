@@ -1,4 +1,4 @@
-# GABDataset Experiments on Gender Bias in Vision-Language Models
+# ComAlign: Compositional Alignment in Vision-Language Models
 
 This repository accompanies the research on the Gender-Activity Binding (GAB) bias in Vision-Language Models (VLMs). The GAB bias refers to the tendency of VLMs to incorrectly associate certain activities with a gender based on ingrained stereotypes. This research introduces the GAB dataset, comprising approximately 5,500 AI-generated images depicting various activities performed by individuals of different genders. The dataset is designed to assess and quantify the extent of gender bias in VLMs, particularly in text-to-image and image-to-text retrieval tasks.
 

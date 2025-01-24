@@ -7,14 +7,17 @@ Install Libraries
 pip install -r requirements.txt
 ```
 
-Download Dataset
+Download Data
 
 ```bash
 cd ComAlign
 wget http://images.cocodataset.org/zips/val2017.zip
 unzip val2017.zip
 wget http://images.cocodataset.org/annotations/annotations_trainval2017.zip
-unzip annotations_trainval2017.zip
+gdown https://drive.google.com/uc?id=1vloi1qL85bM8yNgRQsRWyIX1gMHD4tj-
+gdown https://drive.google.com/uc?id=1LJiC0LznQBBMu-hbM2Edmzdul22u2E7y
+gdown https://drive.google.com/uc?id=1QxCig_UP5fCORMeCeNRtrycktZHXQOvS
+unzip embeddings.zip
 ```
 
 

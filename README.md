@@ -34,6 +34,6 @@ In this version, we have only provided the checkpoint for CLIP-VIT-B32. In futur
 
 
 ```
-python main.py --space experiment --task bias --gpath <unzipped_dataset_path> --opath <output_path>
+python inference.py 
 ```
 

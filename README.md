@@ -41,7 +41,7 @@ In this version, we have only provided the checkpoint for CLIP-VIT-B32. In futur
 
  Model             | Checkpoint Link                                | COCO-Val Embeddings Link                                |
 |-------------------|------------------------------------------------|------------------------------------------------|
-| **CLIP-VIT-B32**   | [Link to ComAlign-CLIP-VIT-B32 Checkpoint](https://drive.google.com/uc?id=1QxCig_UP5fCORMeCeNRtrycktZHXQOvS)        | [Link to COCO-Val embedded by CLIP-VIT-B32](https://drive.google.com/uc?id=1QxCig_UP5fCORMeCeNRtrycktZHXQOvS)        |
+| **CLIP-VIT-B32**   | [Link to ComAlign-CLIP-VIT-B32 Checkpoint](https://drive.google.com/uc?id=1QxCig_UP5fCORMeCeNRtrycktZHXQOvS)        | [Link to COCO-Val embedded by CLIP-VIT-B32](https://drive.google.com/uc?id=1vloi1qL85bM8yNgRQsRWyIX1gMHD4tj-)        |
 
 
 ```

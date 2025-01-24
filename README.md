@@ -4,13 +4,14 @@
 
 Install Libraries
 ```bash
+git clone https://github.com/aliabdollahi024/ComAlign.git
+cd ComAlign
 pip install -r requirements.txt
 ```
 
 Download Data
 
 ```bash
-cd ComAlign
 wget http://images.cocodataset.org/zips/val2017.zip
 unzip val2017.zip
 wget http://images.cocodataset.org/annotations/annotations_trainval2017.zip

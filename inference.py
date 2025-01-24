@@ -65,16 +65,16 @@ class RetrievalModel(nn.Module):
 
 
 ####### fill this arguments ###########################
-retreival_model_path = '../ComAlign-CLIP-VIT-B32.pt' ### image model path
+retreival_model_path = 'ComAlign-CLIP-VIT-B32.pt' ### image model path
 text_model_path = ''      ### text model path
 device = 'cuda'           ### device
 train_text_model = False  ### if text model had been trained 
-images_path = '../val2017'          ### image directory path
-noun_box_images_path = '../embeddings/val2017_noun_yolo_emb_ViT-B-32_openai.h5'
-relation_box_images_path = '../embeddings/val2017_rel_yolo_emb_ViT-B-32_openai.h5'
-annotations_path = '../captions_val2017.json'  ### caption json file path
-noun_sentence_path = '../embeddings/val2017_att_sentence_ViT-B-32_openai_sep.h5'
-relation_sentence_path = '../embeddings/val2017_relation_sentence_ViT-B-32_openai_sep.h5'
+images_path = 'val2017'          ### image directory path
+noun_box_images_path = 'embeddings/val2017_noun_yolo_emb_ViT-B-32_openai.h5'
+relation_box_images_path = 'embeddings/val2017_rel_yolo_emb_ViT-B-32_openai.h5'
+annotations_path = 'captions_val2017.json'  ### caption json file path
+noun_sentence_path = 'embeddings/val2017_att_sentence_ViT-B-32_openai_sep.h5'
+relation_sentence_path = 'embeddings/val2017_relation_sentence_ViT-B-32_openai_sep.h5'
 ### model specification from openclip
 model_id = 'ViT-B-32'
 pretrained = 'openai'

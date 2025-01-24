@@ -30,7 +30,7 @@ In this version, we have only provided the checkpoint for CLIP-VIT-B32. In futur
 
  Model             | Checkpoint Link                                |
 |-------------------|------------------------------------------------|
-| **CLIP-VIT-B32**   | [Link to ComAlign-CLIP-VIT-B32 Checkpoint](https://drive.google.com/file/d/1QxCig_UP5fCORMeCeNRtrycktZHXQOvS/view?usp=sharing)        |
+| **CLIP-VIT-B32**   | [Link to ComAlign-CLIP-VIT-B32 Checkpoint](https://drive.google.com/uc?id=1QxCig_UP5fCORMeCeNRtrycktZHXQOvS)        |
 
 
 ```

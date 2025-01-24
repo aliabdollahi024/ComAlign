@@ -12,7 +12,7 @@ Below is an overview of the ComAlign pipeline, detailing how we match the compon
 
 This repository provides the checkpoints for the ComAlign model across different base VLMs and the code to evaluate the proposed model on the retrieval tasks.
 
-## Repository Manual
+## Repository
 
 Install Libraries
 ```bash

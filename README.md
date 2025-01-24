@@ -1,4 +1,4 @@
-## Repository Manual
+## ComAlign
 
 ### Prerequisites
 

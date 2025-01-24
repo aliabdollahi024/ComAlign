@@ -1,1 +1,9 @@
-سلام
+torchvision 
+pandas
+einops
+h5py
+torch
+tqdm
+numpy
+transformers
+open-clip-torch

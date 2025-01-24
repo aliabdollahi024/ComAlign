@@ -22,7 +22,15 @@ unzip embeddings.zip
 ```
 
 
-### 1. **Experiment Pipelines**
+### 1. **Experiments**
+
+#### 1.2. **Retrieval Experiment**
+
+In this version, we have only provided the checkpoint for CLIP-VIT-B32. In future updates, we will gradually introduce the checkpoints and embedding files for other base VLMs.
+
+ Model             | Checkpoint Link                                |
+|-------------------|------------------------------------------------|
+| **CLIP-VIT-B32**   | [Link to ComAlign-CLIP-VIT-B32 Checkpoint](https://drive.google.com/file/d/1QxCig_UP5fCORMeCeNRtrycktZHXQOvS/view?usp=sharing)        |
 
 
 ```
